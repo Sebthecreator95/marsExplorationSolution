@@ -1,5 +1,5 @@
 function marsExploration(s) {
-    
+    //"find out how many letters were distorted"
     let count = 0
     for(let i = 0; i < s.length-1; i=(i+3)){
         
